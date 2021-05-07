@@ -4,7 +4,7 @@
  
  Code: [Inception V3 and VGG16 Multi-zoom level Model](COMS4995_final_project.ipynb)
  
- Presentation Slide: [Presentation Slides](presentation.pdf)
+ Presentation Slide: [Presentation Slides](breastcancerprediction2.pdf)
  
  Youtube Link: https://youtu.be/rpv8gACVp7Q
  
