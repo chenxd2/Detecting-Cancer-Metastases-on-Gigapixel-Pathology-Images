@@ -6,6 +6,4 @@
  
  Presentation Slide: [Presentation Slides](breastcancerprediction2.pdf)
  
- Youtube Link: https://youtu.be/rpv8gACVp7Q
- 
  Data: Image sourced from CAMELYON16: https://camelyon16.grand-challenge.org. Method inspired from Liu et al. (2017) paper: https://arxiv.org/abs/1703.02442.
